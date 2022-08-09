@@ -1,0 +1,36 @@
+.font {
+position: absolute;
+    width: 369.61px;
+    height: 61.39px;
+    left: 682px;
+    top: 151px;
+
+    /* 1 */
+
+    
+}
+
+
+.dev {
+position: absolute;
+width: 680px;
+height: 154px;
+left: 550px;
+top: 150px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 110px;
+line-height: 154px;
+/* identical to box height, or 140% */
+
+
+/* 1 */
+
+background: linear-gradient(90deg, #E2FF24 0%, #24FE41 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}
